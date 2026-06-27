@@ -1,0 +1,10 @@
+# API Keys - kabhi push mat karo
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
